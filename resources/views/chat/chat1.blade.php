@@ -56,7 +56,7 @@
 </html>
 <script src="/js/jquery.min.js"></script>
 <script>
-    var ws_server='ws://1809a.ws.com:9502/';
+    var ws_server='ws://ws.alilili.top:9502/';
     var ws=new WebSocket(ws_server);
 
     ws.onopen=function(){
